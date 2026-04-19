@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
+# Ignorar arquivos compilados do Java
+*.class
+
+# Ignorar a pasta de saída do IntelliJ
+out/
+
+# Ignorar configurações da IDE
+.idea/
+*.iml
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+ pom.xml
